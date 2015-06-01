@@ -28,7 +28,7 @@
       <SourceFileTimeStamp _date="735750" _time="49515" date="01/06/2015" time="13:45:15"/>
     </Program>
     <Program>
-      <Header Description="Prog A" ISEMPTY_TSK="1" ISN_2="1" LastIsn="1" id="2">
+      <Header Description="Prog A" ISN_2="1" LastIsn="1" id="2">
         <ExecutionRight comp="-1"/>
         <Resident val="N"/>
         <SQL val="N"/>
@@ -42,9 +42,9 @@
         <Offline val="N"/>
         <FormType val="N"/>
         <DotNetObjectExists val="N"/>
-        <LastModified date="00/00/0000" time="00:00:00"/>
+        <LastModified _date="735750" _time="62083" date="01/06/2015" time="17:14:43"/>
       </Header>
-      <SourceFileTimeStamp _date="735750" _time="49702" date="01/06/2015" time="13:48:22"/>
+      <SourceFileTimeStamp _date="735750" _time="51283" date="01/06/2015" time="14:14:43"/>
     </Program>
     <Program>
       <Header Description="Prog B" ISEMPTY_TSK="1" ISN_2="1" LastIsn="1" id="3">
